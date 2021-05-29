@@ -1,0 +1,11 @@
+C:\Users\Yang\source\repos\Web Scrapying\Web Scrapying\bin\Debug\Web Scrapying.exe.config
+C:\Users\Yang\source\repos\Web Scrapying\Web Scrapying\bin\Debug\Web Scrapying.exe
+C:\Users\Yang\source\repos\Web Scrapying\Web Scrapying\bin\Debug\Web Scrapying.pdb
+C:\Users\Yang\source\repos\Web Scrapying\Web Scrapying\obj\Debug\Web Scrapying.csprojAssemblyReference.cache
+C:\Users\Yang\source\repos\Web Scrapying\Web Scrapying\obj\Debug\Web Scrapying.csproj.CoreCompileInputs.cache
+C:\Users\Yang\source\repos\Web Scrapying\Web Scrapying\obj\Debug\Web Scrapying.exe
+C:\Users\Yang\source\repos\Web Scrapying\Web Scrapying\obj\Debug\Web Scrapying.pdb
+C:\Users\Yang\source\repos\Web Scrapying\Web Scrapying\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Yang\source\repos\Web Scrapying\Web Scrapying\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Yang\source\repos\Web Scrapying\Web Scrapying\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Yang\source\repos\Web Scrapying\Web Scrapying\obj\Debug\Web Scrapying.csproj.CopyComplete
